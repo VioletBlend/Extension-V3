@@ -2,6 +2,8 @@
 
 <br>
 
+<br>
+
 Microsoft Edge & Chromeにて簡単に動作確認するテストを行いました。
 
 <br>
@@ -9,6 +11,8 @@ Microsoft Edge & Chromeにて簡単に動作確認するテストを行いまし
 <br>
 
 ## 拡張機能の使い方
+
+<br>
 
 <br>
 
