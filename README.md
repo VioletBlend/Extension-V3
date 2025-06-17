@@ -2,7 +2,7 @@
 
 <br>
 
-Microsoft Edge & Chromeで動作するテストをしました。
+Microsoft Edge & Chromeにて簡単に動作確認するテストを行いました。
 
 <br>
 
