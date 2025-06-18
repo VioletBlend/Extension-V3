@@ -1,10 +1,23 @@
-# Bookmarks Viewer
+# Install & Usage
 
 <br>
 
 <br>
 
-Microsoft Edge & Chromeにて簡単に動作確認するテストを行いました。
+[![share-badge-cxt](https://github.com/user-attachments/assets/44db30c2-76b9-4f9d-8315-61b32c6525ae)
+](https://chromewebstore.google.com/detail/cephbhfaonmmcpjcnlhabhkbhjfkkdef?authuser=0&hl=ja)
+
+<br>
+
+<br>
+
+## Bookmarks Viewer
+
+<br>
+
+<br>
+
+Microsoft Edge & Chrome browserにおいてテストを行いました。
 
 <br>
 
